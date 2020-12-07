@@ -24,7 +24,7 @@ public class Phone {
 
 	private String description;
 
-	private String url;
+	private String urlImage;
 
 	private BigDecimal price;
 
